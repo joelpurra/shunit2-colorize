@@ -4,6 +4,12 @@ Add colors to shUnit2 output.
 
 
 
+> ## ⚠️ This project has been archived
+>
+> No future updates are planned. Feel free to continue using it, but expect no support.
+
+
+
 ## Usage
 
 
